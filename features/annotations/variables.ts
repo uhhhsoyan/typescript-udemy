@@ -1,4 +1,5 @@
 let apples: number = 5;
+let oranges = 5; // type inference works if variable declaration and inference on the same line!!
 let speed: string = 'fast';
 let hasName: boolean = true;
 
