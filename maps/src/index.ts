@@ -7,4 +7,3 @@ const testMap = new CustomMap('map');
 const user = new User();
 
 testMap.addUserMarker(user);
-
